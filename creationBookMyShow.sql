@@ -14,7 +14,7 @@ use bookMyShow;
 		The attributes of this entity are : 
 			a. movie_id
 			b. movie_name
-            c. duration
+                        c. duration
 			d. genre 
 			e. language 
 			f. format
